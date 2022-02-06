@@ -9,3 +9,7 @@ DCGAN implementation in keras on CIFAR10 dataset and MNIST
 ![alt text](https://github.com/jaydeepthik/keras-GAN/blob/master/generated/gan3.png)
 ![alt text](https://github.com/jaydeepthik/keras-GAN/blob/master/generated/gan4.png)
 ![alt text](https://github.com/jaydeepthik/keras-GAN/blob/master/generated/gan5.png)
+
+
+# Generated images from FashionMNIST
+![alt text](https://github.com/jaydeepthik/keras-GAN/blob/master/generated/download.png)
